@@ -1,1 +1,7 @@
-
+.metadata/
+RemoteSystemsTempFiles/
+application/.cproject
+application/.project
+application/.settings/
+application/hello/build
+/rtos/
